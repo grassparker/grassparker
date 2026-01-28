@@ -8,6 +8,6 @@ I never thought I would become a developer one-day, interested in full-stack dev
 My journey is never a straight line. I am learning to become a full-stack developer because my back-end has a huge knowledge gap that I am currently working on. Coding sometimes make me feel like quitting, but it is something I cannot truly give up on. Just persevere through. :)
 
 # Current projects:
-- [/] StudiLib
-- [/] StudiLib website
+- [x] StudiLib
+- [ ] StudiLib website
 - [ ] An IOS app someday...
