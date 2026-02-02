@@ -7,6 +7,9 @@ I never thought I would become a developer one-day, interested in full-stack dev
 # Not a straight line
 My journey is never a straight line. I am learning to become a full-stack developer because my back-end has a huge knowledge gap that I am currently working on. Coding sometimes make me feel like quitting, but it is something I cannot truly give up on. Just persevere through. :)
 
+# The best thing ever...
+The best thing ever about being a dev is that you can just keep on learning, and there are always emotional roller coasters to ride on. XD
+
 # Current projects:
 - [x] StudiLib
 - [ ] StudiLib website
