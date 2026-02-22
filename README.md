@@ -78,8 +78,8 @@ When I'm not coding, you'll find me exploring:
 
 <div align="center">
   
-  ![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/grassparker/count.svg)
   
-  ⭐️ From [yourusername](https://github.com/yourusername)
+  ⭐️ From [grassparker](https://github.com/grassparker)
   
 </div>
