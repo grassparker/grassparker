@@ -12,5 +12,5 @@ The best thing ever about being a dev is that you can just keep on learning, and
 
 # Current projects:
 - [x] StudiLib
-- [ ] StudiLib website
+- [x] StudiLib website
 - [ ] An IOS app someday...
