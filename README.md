@@ -3,10 +3,6 @@
 
 # SYSTEM_BOOT: GRASSPARKER.exe
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=FBBF24&height=200&section=header&text=STUDI_OS%20v2.6&fontSize=70&fontAlignY=35&animation=twinkling" />
-</p>
-
 ## SYSTEM_STATUS
 | MODULE | VERSION | STATUS | LOCATION |
 | :--- | :--- | :--- | :--- |
