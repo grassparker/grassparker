@@ -12,8 +12,9 @@
 
 ### PLAYER_ATTRIBUTES (LIVE_STATS)
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=grassparker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=111" alt="grassparker stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grassparker&layout=compact&theme=tokyonight&hide_border=true&bg_color=111" alt="grassparker languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=grassparker&show_icons=true&theme=merko&hide_border=true&bg_color=111&count_private=true&cache_seconds=1800" alt="grassparker stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grassparker&layout=compact&theme=merko&hide_border=true&bg_color=111&cache_seconds=1800" alt="grassparker languages" />
 </p>
 
 ---
