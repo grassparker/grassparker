@@ -1,11 +1,7 @@
 # Hi! My name is Pixel!
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/697a00275c049b2765195794?variant=dark&roadmaps=full-stack%2Cjavascript" alt="roadmap.sh"/></a>
 
-# ⚡ SYSTEM_BOOT: GRASS_PARKER.exe ⚡
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=FBBF24&height=200&section=header&text=STUDI_OS%20v2.6&fontSize=70&fontAlignY=35&animation=twinkling" />
-</p>
+# ⚡ SYSTEM_BOOT: GRASSPARKER.exe ⚡
 
 ## 🖥️ SYSTEM_STATUS
 | CPU | MEMORY | STATUS | LOCATION |
@@ -16,8 +12,8 @@
 
 ### 🕹️ LIVE_PLAYER_STATS
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USER&show_icons=true&theme=tokyonight&hide_border=true&bg_color=111" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USER&layout=compact&theme=tokyonight&hide_border=true&bg_color=111" alt="Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=grassparker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=111" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grassparker&layout=compact&theme=tokyonight&hide_border=true&bg_color=111" alt="Langs" />
 </p>
 
 ---
@@ -47,7 +43,7 @@
 ---
 
 ### 📡 LATEST_LOGS (Recent Activity)
-- 🛠️ Fixed `isLoading` infinite loop in `STUDI_OS`
+- 🛠️ Fixed `isLoading` infinite loop in `StudiLib`
 - 🎨 Refactored `TopBar` HUD for better CRT vibes
 - 🚀 Deployed `Tailwind_v4` migration
 
