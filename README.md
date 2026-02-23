@@ -45,10 +45,9 @@ const developer = {
 
 <div align="center">
   
- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grassparker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true)](https://github.com/grassparker)
-  
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grassparker&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8)](https://github.com/grassparker)
-  
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=grassparker&show_icons=true)
+ 
+ 
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=grassparker&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=C9D1D9)
 
 </div>
@@ -72,13 +71,13 @@ When I'm not coding, you'll find me exploring:
 
 > "The best way to learn is to build, break, and build again." 
 > 
-> Self-taught and proud. Every project is a lesson. Every bug is a teacher. 🚀
+> Self-taught and proud. Every project is a lesson. Every bug is a teacher.
 
 ---
 
 <div align="center">
   
-  ![Visitor Count](https://profile-counter.glitch.me/grassparker/count.svg)
+  ![Profile Views](https://komarev.com/ghpvc/?username=grassparker&color=blueviolet)
   
   ⭐️ From [grassparker](https://github.com/grassparker)
   
