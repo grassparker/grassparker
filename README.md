@@ -44,9 +44,7 @@ const developer = {
 ## GitHub Stats
 
 <div align="center">
-  
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=grassparker&show_icons=true)
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grassparker)](https://github.com/grassparker/github-readme-stats)
  
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=grassparker&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=C9D1D9)
 
