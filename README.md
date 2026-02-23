@@ -33,7 +33,7 @@ const developer = {
 
 ## Current Project
 
-### 📚 [StudiLib](https://github.com/yourusername/studilib)
+### 📚 [StudiLib](https://github.com/grassparker/studilib)
 > A modern web application for managing academic life
 
 - 🎯 Smart study organization system
