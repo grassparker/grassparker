@@ -71,9 +71,6 @@ When I'm not coding, you'll find me exploring:
 > 
 > Self-taught and proud. Every project is a lesson. Every bug is a teacher.
 
-## Fav songs
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6PwVnlNwVKGD18lWNCh1It?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
 ---
 
 <div align="center">
