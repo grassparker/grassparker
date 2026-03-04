@@ -35,6 +35,7 @@ const developer = {
 
 ### 📚 [StudiLib](https://github.com/grassparker/studilib)
 > A modern web application for managing academic life
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=grassparker&repo=studilib)](https://github.com/grassparker/studilib)
 
 - 🎯 Smart study organization system
 - ⚡ Built with cutting-edge web technologies
