@@ -16,7 +16,7 @@
 <br/>
 U can see the progress here:
 
-![View progress](https://roadmap.sh/card/wide/697a00275c049b2765195794?variant=dark&roadmaps=cyber-security%2Cjava%2Cc)
+[View progress](https://roadmap.sh/card/wide/697a00275c049b2765195794?variant=dark&roadmaps=cyber-security%2Cjava%2Cc)
 
 ---
 I can do HTML, CSS and JavaScript... :) <br/>
