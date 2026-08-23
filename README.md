@@ -18,6 +18,8 @@ U can see the progress here:
 
 [![roadmap.sh](https://roadmap.sh/card/wide/697a00275c049b2765195794?variant=dark&roadmaps=cyber-security%2Cjava%2Cc)](https://roadmap.sh)
 
+![View progress](https://roadmap.sh/card/wide/697a00275c049b2765195794?variant=dark&roadmaps=cyber-security%2Cjava%2Cc)
+
 ---
 I can do HTML, CSS and JavaScript... :) <br/>
 Previously there were some very sloppy AI-written code on my github, but I decided to delete them. 
