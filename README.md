@@ -1,5 +1,4 @@
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/697a00275c049b2765195794?variant=dark&roadmaps=full-stack%2Cjavascript" alt="roadmap.sh"/></a>
-# Hey there! 👋 I'm Nazwell!
+# Hello! my name is Nazwell!
 
 <div align="center">
   
@@ -9,9 +8,15 @@
 
 ## About Me
 
-**Still learning...** <br/>
+**Still learning...**
 <ul>
   <li>C</li>
   <li>White hat hacking</li>
 </ul>
+<br/>
+U can see the progress here:
+
+[![roadmap.sh](https://roadmap.sh/card/wide/697a00275c049b2765195794?variant=dark&roadmaps=cyber-security%2Cjava%2Cc)](https://roadmap.sh)
+
+---
 I can do HTML, CSS and JavaScript... :)
