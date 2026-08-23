@@ -9,5 +9,9 @@
 
 ## About Me
 
-**Still learning...**
+**Still learning...** <br/>
+<ul>
+  <li>C</li>
+  <li>White hat hacking</li>
+</ul>
 I can do HTML, CSS and JavaScript... :)
