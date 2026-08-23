@@ -9,16 +9,5 @@
 
 ## About Me
 
-```javascript
-const developer = {
-    name: "Nazwell",
-    role: "Still learning developer",
-    currentProject: "Nothing",
-    passions: ["Pure Mathematics", "Programming", "Problem Solving"],
-    learning: ["C", "White hat hacking", "Java"],
-    funFact: "I love the Terminal and Linux CLI"
-};
-```
-
-## Currently still learning C and stuff...
-
+**Still learning...**
+I can do HTML, CSS and JavaScript... :)
